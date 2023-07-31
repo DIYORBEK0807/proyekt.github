@@ -1,0 +1,107 @@
+.bir{
+    display: flex;
+}
+.ikki{
+    display: flex;
+    margin-top: 200px;
+}
+ .birinchi{
+    width: 250px;
+    height: 300px;
+    margin-top: 100px;
+    box-shadow: 0 11px 15px -5px black;
+    margin-left: 200px;
+}
+
+.ikkinchi{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 11px 15px -5px black;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+.uchinchi{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 11px 15px -5px black;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+.bir .sh{
+    margin-top: 60px;
+    margin-left: 280px;
+    position: absolute;
+}
+.bir .sha{
+    margin-top: 60px;
+    margin-left: 980px;
+    position: absolute;
+}
+.bir .shad{
+    margin-top: 60px;
+    margin-left: 1680px;
+    position: absolute;
+}
+.turt{
+    width: 250px;
+    height: 300px;
+    box-shadow: 0 11px 15px -5px black;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.besh{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 11px 15px -5px black;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.olti{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 11px 15px -5px black;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.yetti{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 11px 15px -5px black;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+.sakkiz{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 0 11px 15px -5px black;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.ikki .sh{
+    margin-left: 260px;
+    position: absolute;
+}
+.ikki .sha{
+    margin-left: 600px;
+    position: absolute;
+}
+.ikki .shad{
+    margin-left: 1300px;
+    position: absolute;
+}
+.ikki .shado{
+    margin-left: 1660px;
+    position: absolute;
+}
+.ikki .shadow{
+    margin-left: 960px;
+    position: absolute;
+}
